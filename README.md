@@ -18,7 +18,7 @@ Aplikacja biblioteki umożliwia przeglądanie dostępnych książek i autorów. 
 
 ## Diagram przypadków użycia
 
-(Tutaj należy wstawić diagram przypadków użycia, np. obrazek przedstawiający przepływ działań użytkowników w aplikacji.)
+![obraz](https://github.com/user-attachments/assets/dd602d15-bb23-4c26-b7ab-516201044afe)
 
 ---
 
